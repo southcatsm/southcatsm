@@ -6,7 +6,7 @@ print("welcome!")
 ```
 ![southcatsm](https://count.getloli.com/get/@southcatsm)
 
- >If you click a `follow, I will very happy!
+ >If you click a `follow`, I will very happy!
 
 ```javascript
 document.getElementById("Follow").onclick=function(){
