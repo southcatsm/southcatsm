@@ -4,11 +4,9 @@
 ```Python
 print("welcome!")
 ```
-Counter:
 ![southcatsm](https://count.getloli.com/get/@southcatsm)
->I am a student `who like programming`.
->~~I did not tell you my age~~
->If you click a **'Follow'**, I will very happy!
+
+ >If you click a `follow, I will very happy!
 
 ```javascript
 document.getElementById("Follow").onclick=function(){
